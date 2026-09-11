@@ -31,8 +31,8 @@ L'app usa una dashboard dark-themed con sidebar e pannello di output live.
 1. Clona il repository:
 
 ```bash
-git clone https://github.com/<tuo-username>/<tuo-repo>.git
-cd <tuo-repo>
+git clone https://github.com/black-hut/analizzatore.git
+cd analizzatore.git
 ```
 
 2. Crea un ambiente virtuale (opzionale ma consigliato):
@@ -127,14 +127,11 @@ Questo progetto è stato creato a scopo educativo e di analisi di rete in ambien
 
 Usa lo strumento in modo responsabile e conforme alle normative applicabili.
 
-## Licenza
+Licenza
+Questo progetto è distribuito con licenza MIT.
 
-Questo progetto non include ancora una licenza specifica. Se vuoi pubblicarlo su GitHub, è consigliabile aggiungere una licenza come MIT o GPL, in base al tuo utilizzo.
+Autore
+Sviluppato e mantenuto da [black-hut].
 
-## Autore
-
-Questo repository può essere adattato e personalizzato secondo le tue esigenze.
-
-## Contatti / contribuzione
-
-Se vuoi migliorare il progetto, apri una PR o invia una proposta di modifica.
+Contatti / Contributi
+I contributi, i suggerimenti e i miglioramenti sono benvenuti. Se vuoi contribuire, apri una pull request oppure contattami tramite GitHub.

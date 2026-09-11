@@ -32,14 +32,15 @@ L'app usa una dashboard dark-themed con sidebar e pannello di output live.
 
 ```bash
 git clone https://github.com/black-hut/analizzatore.git
-cd analizzatore.git
+cd .\analizzatore
 ```
 
 2. Crea un ambiente virtuale (opzionale ma consigliato):
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\.venv\Scripts\Activate.ps1
 ```
 
 3. Installa le dipendenze:
@@ -55,7 +56,7 @@ pip install -r requirements.txt
 Avvia l'applicazione con:
 
 ```bash
-python network_analysis.py
+python .\network_analysis.py
 ```
 
 ## Utilizzo
